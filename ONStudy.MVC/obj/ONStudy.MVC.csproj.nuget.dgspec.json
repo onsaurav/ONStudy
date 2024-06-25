@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\Practice\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj": {}
+    "D:\\workspace\\MyProjects\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\Practice\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj": {
+    "D:\\workspace\\MyProjects\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\Practice\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj",
+        "projectUniqueName": "D:\\workspace\\MyProjects\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj",
         "projectName": "ONStudy.MVC",
-        "projectPath": "D:\\workspace\\Practice\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj",
+        "projectPath": "D:\\workspace\\MyProjects\\ONStudy\\ONStudy.MVC\\ONStudy.MVC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\Practice\\ONStudy\\ONStudy.MVC\\obj\\",
+        "outputPath": "D:\\workspace\\MyProjects\\ONStudy\\ONStudy.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
